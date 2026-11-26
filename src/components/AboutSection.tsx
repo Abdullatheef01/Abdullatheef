@@ -15,27 +15,27 @@ const TECHNICAL_SKILLS = [
 
 const CONTRIBUTOR_AVATARS = [
   {
-    src: '/assets/aistudio/191744058_6a34300c.png',
+    src: '/assets/portfolio-media/191744058_6a34300c.png',
     alt: 'Open source collaborator avatar 1',
     posClass: 'top-0 right-4 w-9 h-9 z-10',
   },
   {
-    src: '/assets/aistudio/208829425_23203523.jpg',
+    src: '/assets/portfolio-media/208829425_23203523.jpg',
     alt: 'Open source collaborator avatar 2',
     posClass: 'top-3.5 left-4 w-10 h-10 z-20',
   },
   {
-    src: '/assets/aistudio/image_5e0d9eb3.png',
+    src: '/assets/portfolio-media/image_5e0d9eb3.png',
     alt: 'Open source collaborator avatar 3',
     posClass: 'top-10 right-0 w-9 h-9 z-20',
   },
   {
-    src: '/assets/aistudio/240290321_bd3f0dd6.png',
+    src: '/assets/portfolio-media/240290321_bd3f0dd6.png',
     alt: 'Open source collaborator avatar 4',
     posClass: 'bottom-1.5 left-[58px] w-7 h-7 z-30',
   },
   {
-    src: '/assets/aistudio/image_630515fb.png',
+    src: '/assets/portfolio-media/image_630515fb.png',
     alt: 'Open source collaborator avatar 5',
     posClass: 'bottom-0 left-0 w-6 h-6 z-10',
   },

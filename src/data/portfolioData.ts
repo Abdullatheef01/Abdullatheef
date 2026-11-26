@@ -73,7 +73,7 @@ export const PORTFOLIO_OWNER = {
   location: 'Available Worldwide · Remote & Studio',
   heroPortrait: heroPortraitImage,
   aboutPortrait: '/src/assets/images/about_user_portrait_1795531733651.jpg',
-  resumePdf: '/assets/aistudio/Abdul_Latheef_J_Resume_7c73b019.pdf',
+  resumePdf: '/assets/portfolio-media/Abdul_Latheef_J_Resume_7c73b019.pdf',
 };
 
 export const PROJECTS: ProjectCaseStudy[] = [
