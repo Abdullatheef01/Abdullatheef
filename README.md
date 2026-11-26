@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdul Latheef J — Portfolio
+# Abdul Latheef J - Portfolio
 
 A personal portfolio website presenting my projects, technical skills, education, achievements and certifications.
 
@@ -121,12 +121,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - Most content is in `src/data/portfolioData.ts`.
 - Text for the About, Skills, Education and Footer sections is inside the matching files in `src/components/` (Skills is `ServicesSection.tsx`, Education is `PricingSection.tsx`).
 - To update the resume, add the new PDF to `public/assets/portfolio-media/` and change `resumePdf` in `portfolioData.ts`.
-
-## Contact
-
-**Abdul Latheef J**
-
-- **Email:** [abdullatheefsjcetcse@gmail.com](mailto:abdullatheefsjcetcse@gmail.com)
-- **LinkedIn:** [abdul-latheef-j](https://www.linkedin.com/in/abdul-latheef-j-5576752b9/)
-- **GitHub:** [Abdullatheef01](https://github.com/Abdullatheef01)
-- **YouTube:** [@CodewithAbdulofficial](https://www.youtube.com/@CodewithAbdulofficial)
